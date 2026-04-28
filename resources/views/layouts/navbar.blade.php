@@ -11,6 +11,8 @@
                 <a href="{{ route('tentang') }}" class="hover:text-orange-500 transition-colors {{ request()->routeIs('tentang') ? 'text-orange-500 font-semibold' : '' }}">Tentang Kami</a>
                 <a href="{{ route('proker') }}" class="hover:text-orange-500 transition-colors {{ request()->routeIs('proker') ? 'text-orange-500 font-semibold' : '' }}">Program Kerja</a>
                 <a href="{{ route('berita') }}" class="hover:text-orange-500 transition-colors {{ request()->routeIs('berita') ? 'text-orange-500 font-semibold' : '' }}">Berita</a>
+                <a href="{{ route('aspirasi') }}" class="hover:text-orange-500 transition-colors {{ request()->routeIs('aspirasi') ? 'text-orange-500 font-semibold' : '' }}">Aspirasi</a>
+                <a href="{{ route('daftar') }}" class="hover:text-orange-500 transition-colors {{ request()->routeIs('daftar') ? 'text-orange-500 font-semibold' : '' }}">Daftar</a>
                 <a href="{{ route('kontak') }}" class="bg-orange-500 hover:bg-orange-600 text-white px-5 py-2 rounded-full font-semibold transition-all shadow-md">Hubungi Kami</a>
             </div>
         </div>

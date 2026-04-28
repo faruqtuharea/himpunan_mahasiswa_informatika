@@ -11,7 +11,7 @@
             
         </p>
         <p class="max-w-2xl mx-auto text-gray-400 mb-10">
-            Wadah kolaborasi, inovasi, dan pengembangan diri bagi seluruh mahasiswa Informatika untuk menciptakan teknologi yang berdampak bagi masyarakat.
+             
         </p>
         <div class="flex justify-center gap-4">
             <a href="{{ route('tentang') }}" class="bg-orange-500 hover:bg-orange-600 text-white px-8 py-3 rounded-full font-semibold transition-all">Kenali Kami</a>
